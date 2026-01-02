@@ -1,0 +1,18 @@
+ONPH Hypothesis - Statistical Analysis Report
+============================================
+Parameters: ALPHA=0.22, BETA=0.18, Threshold=0.65
+
+1. ANOVA Table
+               sum_sq       df             F  PR(>F)
+C(Group)  4409.111837      2.0  52207.787827     0.0
+Residual  1266.670484  29997.0           NaN     NaN
+
+2. Tukey HSD Results
+        Multiple Comparison of Means - Tukey HSD, FWER=0.05         
+====================================================================
+     group1          group2    meandiff p-adj  lower   upper  reject
+--------------------------------------------------------------------
+A: Consolidation B: Forgetting  -0.7939   0.0 -0.8007 -0.7871   True
+A: Consolidation   C: Instinct   0.0373   0.0  0.0305  0.0442   True
+   B: Forgetting   C: Instinct   0.8313   0.0  0.8245  0.8381   True
+--------------------------------------------------------------------
