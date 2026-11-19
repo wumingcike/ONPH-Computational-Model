@@ -1,0 +1,80 @@
+{
+  "e1_full_separation": 0.8916,
+  "e1_full_separation_ci": [
+    0.8882,
+    0.8950008333333334
+  ],
+  "e1_null_separation": 0.0,
+  "e1_null_separation_ci": [
+    0.0,
+    0.0
+  ],
+  "e1_table": [
+    {
+      "beta": 0.18,
+      "gating": "sigmoid",
+      "risk_diff": 0.8916,
+      "rd_lo": 0.8882,
+      "rd_hi": 0.895,
+      "cohens_d": 4.024,
+      "overlap": 0.0945
+    },
+    {
+      "beta": 0.18,
+      "gating": "linear",
+      "risk_diff": 0.866,
+      "rd_lo": 0.8621,
+      "rd_hi": 0.8699,
+      "cohens_d": 3.3632,
+      "overlap": 0.0937
+    },
+    {
+      "beta": 0.18,
+      "gating": "none",
+      "risk_diff": 0.2758,
+      "rd_lo": 0.2706,
+      "rd_hi": 0.2808,
+      "cohens_d": 1.3896,
+      "overlap": 0.4343
+    },
+    {
+      "beta": 0.0,
+      "gating": "sigmoid",
+      "risk_diff": 0.0162,
+      "rd_lo": 0.0148,
+      "rd_hi": 0.0177,
+      "cohens_d": 0.2093,
+      "overlap": 0.9713
+    },
+    {
+      "beta": 0.0,
+      "gating": "linear",
+      "risk_diff": 0.0003,
+      "rd_lo": 0.0001,
+      "rd_hi": 0.0005,
+      "cohens_d": 0.0428,
+      "overlap": 0.9963
+    },
+    {
+      "beta": 0.0,
+      "gating": "none",
+      "risk_diff": 0.0,
+      "rd_lo": 0.0,
+      "rd_hi": 0.0,
+      "cohens_d": 0.0065,
+      "overlap": 0.9967
+    }
+  ],
+  "e2_spearman": 0.9904344108891003,
+  "e2_p_at_0": 0.11045,
+  "e2_p_at_max": 0.99995,
+  "e3_frac_positive": 0.8125,
+  "e3_beta_at_zero_sep": 0.09233928571428571,
+  "e4_maintained_with_drive": 0.9935,
+  "e4_maintained_without_drive": 0.0186,
+  "e4_low_w0_with_drive": 0.0076,
+  "e5_min_separation": 0.5070000000000001,
+  "e5_max_separation": 0.9642000000000001,
+  "runtime_sec": 9.9,
+  "total_trajectories": 3032000
+}
