@@ -9,9 +9,9 @@ ONPH proposes that sleep is not a passive rest state but an active, **bidirectio
 
 ONPH 假说认为睡眠不是被动休息，而是一个对突触权重进行的**双向判定系统**：睡眠周期巩固在觉醒期被确认的记忆，通过稳态下调修剪未被确认的痕迹，并以内源驱动保护系统发生学记忆（本能）。
 
-This repository contains the **computational model only**. The theoretical manuscript is distributed separately.
+This repository contains the **computational model** and the v2 manuscript (`manuscript/ONPH_v2_en.md`), which reports the results below as Section 4 and states what they do and do not show.
 
-本仓库只包含**计算模型**。理论文稿另行发布。
+本仓库包含**计算模型**与 v2 论文正文（`manuscript/ONPH_v2_en.md`），正文第 4 节即为下述结果，并明确写出这些结果能证明与不能证明什么。
 
 ---
 
