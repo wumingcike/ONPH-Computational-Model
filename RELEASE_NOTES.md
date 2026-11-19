@@ -1,5 +1,10 @@
 # Release notes
 
+## v2.0.1 — 2026-11-19
+
+- Added `manuscript/ONPH_v2_en.md`: the v2 manuscript (English, submission format). Section 4 reports E1–E5 with the numbers in this release; Section 4.7 and 5.4 state what the simulations do not show.
+- README now points to the manuscript instead of saying it is distributed separately.
+
 ## v2.0.0 — 2026-11-19
 
 **A falsifiable reconstruction of the computational part.** The theory is unchanged; what changed is whether the simulation can fail.
