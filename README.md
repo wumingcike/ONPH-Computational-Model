@@ -89,7 +89,7 @@ Removing downscaling collapses the separation from 0.892 to 0.016; removing the 
 
 ### 2. Confirmation strength acts as a threshold (c ≈ 0.05), and the dose–response is monotone (Spearman ρ = 0.990)
 
-Single exposure without confirmation retains 11% of memories; c = 0.06 already pushes the majority past the criterion; the calibrated c = 0.6 sits on the saturated plateau, not on the cliff edge.
+Single exposure without confirmation retains 11% of memories; c = 0.12 already pushes 58% past the criterion; the calibrated c = 0.6 sits on the saturated plateau, not on the cliff edge.
 
 ![Figure 2](figures/fig2_dose_response.png)
 
