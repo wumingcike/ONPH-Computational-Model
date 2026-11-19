@@ -38,6 +38,19 @@ This repository contains the **computational model only**. The theoretical manus
 
 ---
 
+## Versions / 版本
+
+| Version | Date | What it is |
+|---|---|---|
+| **v2.0.0** (current) | 2026-11-19 | Factorised model + five experiment families, 3.03 M trajectories, falsification conditions pre-registered in `docs/` |
+| v1.0 | 2025 | Single script with three hard-coded scenarios; retired to `archive_v1/` |
+
+See [RELEASE_NOTES.md](RELEASE_NOTES.md) for the full diff. The Zenodo DOI in the badge refers to the archived **v1** record; a v2 DOI is minted when this release is archived — cite the version you actually used.
+
+版本说明见 [RELEASE_NOTES.md](RELEASE_NOTES.md)。徽章中的 Zenodo DOI 指向已归档的 **v1**；v2 的 DOI 在本版本归档后生成，请按实际使用的版本引用。
+
+---
+
 ## Quick start / 快速开始
 
 ```bash

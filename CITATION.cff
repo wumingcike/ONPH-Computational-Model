@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this model or its results, please cite it as below."
+title: "ONPH: Offline Neural Plasticity Homeostasis Hypothesis — computational model"
+abstract: >-
+  A discrete-time stochastic model of sleep-dependent memory adjudication.
+  Wake confirmation, homeostatic downscaling and threshold-gated replay are
+  implemented as independent mechanisms so that each can be ablated. The
+  accompanying experiments (3.03 million Monte Carlo trajectories) quantify
+  where in parameter space the proposed qualitative regime exists and show
+  that it collapses to zero separation when the sleep mechanisms are removed.
+authors:
+  - name: "wumingcike"
+    website: "https://github.com/wumingcike"
+version: "2.0.0"
+date-released: "2026-11-19"
+license: CC-BY-4.0
+repository-code: "https://github.com/wumingcike/ONPH-Computational-Model"
+url: "https://github.com/wumingcike/ONPH-Computational-Model"
+keywords:
+  - sleep
+  - memory consolidation
+  - synaptic homeostasis
+  - homeostatic downscaling
+  - experience replay
+  - computational model
+  - Monte Carlo simulation
